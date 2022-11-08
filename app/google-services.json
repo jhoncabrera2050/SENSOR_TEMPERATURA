@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437150038488",
+    "project_id": "login-2b64a",
+    "storage_bucket": "login-2b64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437150038488:android:f829d4bafae5c7a4a95aad",
+        "android_client_info": {
+          "package_name": "com.cabrera.jhon.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437150038488-f4561susnffcqramocb297ef1h5pl2ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtIvjyQOxbsaVgQIR2CUax0F-8V7q8hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437150038488-f4561susnffcqramocb297ef1h5pl2ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
